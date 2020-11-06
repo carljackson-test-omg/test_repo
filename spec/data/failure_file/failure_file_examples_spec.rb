@@ -13,3 +13,5 @@ RSpec.describe "FailureFile Examples" do
   end
   # rubocop: enable Layout/SpaceBeforeFirstArg
 end
+
+# some comment
